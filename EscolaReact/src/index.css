@@ -1,0 +1,26 @@
+:root{
+  --bg-menu: #0f99c4;
+  --logo-width: 150px;
+  --content-header-height: 10px;
+  --content-footer-height: 10px;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Pacifico", sans-serif;
+}
+
+/* Lay-out */
+  aside.logo{
+  grid-area: logo;
+  }
+  nav.menu {
+  grid-area: menu;
+  }
+  div.content {
+  grid-area: content;
+  }
+
+footer.footer {
+  grid-area: footer;
+}

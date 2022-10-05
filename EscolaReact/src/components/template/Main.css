@@ -1,0 +1,19 @@
+div.content{
+    width: 68%;
+    height: 80%;
+    margin:auto;
+    }
+
+    main > div {
+    background-color: rgb(154, 211, 233);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.267);
+    padding: 30px;
+    align-items: center;
+
+    display: flex;
+    justify-content: center;
+}
+
+.able {
+    color: #023b75;
+}

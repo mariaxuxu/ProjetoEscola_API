@@ -1,0 +1,16 @@
+nav.menu {
+    background-color: var(--bg-menu);
+    text-align: right;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 5px;
+    padding-right: 10px;
+}
+
+.menu a:hover {
+color: #023b75;
+}
