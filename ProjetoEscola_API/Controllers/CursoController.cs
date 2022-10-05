@@ -18,7 +18,7 @@ namespace ProjetoEscola_API.Controllers
             return _context.Curso.ToList();
         }
 
-        //Trazer um unico Aluno Pasando o ID do Mesmo
+        //Trazer um unico Aluno Passando o ID do Mesmo
         [HttpGet("{CursoId}")]
         public ActionResult<List<Curso>> Get (int CursoId){
             try{

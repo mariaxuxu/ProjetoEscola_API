@@ -60,7 +60,7 @@ export default function CrudCurso() {
     const removerCurso = (curso) => {
         const url = urlAPI + "/" + curso.id;
         if (window.confirm("Confirma remoção do curso: " + curso.nomeCurso)) {
-            console.log("entrou no confirm (confirma a remoação)");
+            console.log("entrou no confirm (confirma a remoção)");
             axios['delete'](url, curso)
                 .then(resp => {
                     const lista = getListaAtualizada(curso, false)
