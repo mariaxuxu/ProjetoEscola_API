@@ -2282,11 +2282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/u21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
+      "projectUniqueName": "/Users/u21442/ATIVIDADE-1_21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
       "projectName": "ProjetoEscola_API",
-      "projectPath": "/Users/u21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
+      "projectPath": "/Users/u21442/ATIVIDADE-1_21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
       "packagesPath": "/Users/u21442/.nuget/packages/",
-      "outputPath": "/Users/u21442/ProjetoEscola_API/obj/",
+      "outputPath": "/Users/u21442/ATIVIDADE-1_21442/ProjetoEscola_API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/u21442/.nuget/NuGet/NuGet.Config"

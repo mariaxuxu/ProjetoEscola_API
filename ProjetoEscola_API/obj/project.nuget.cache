@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDCFKwx0K2hdw3QD4a6EXkVNjQC74+F1uwS1a9qmPdZfpNE6j0AwaaHtpF4E0l75hFmtfSfMsTIVno+5k+1Tug==",
+  "dgSpecHash": "jLz55ilN2ZTFomhqc+xPFJ7ohauzGDdd6bqzlu/QC/n2Dtx0ONVAnwD/brtzVLNzWc2s20Uu9kycvqZCrC57Tg==",
   "success": true,
-  "projectFilePath": "/Users/u21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
+  "projectFilePath": "/Users/u21442/ATIVIDADE-1_21442/ProjetoEscola_API/ProjetoEscola_API.csproj",
   "expectedPackageFiles": [
     "/Users/u21442/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
     "/Users/u21442/.nuget/packages/k4os.compression.lz4/1.2.6/k4os.compression.lz4.1.2.6.nupkg.sha512",

@@ -115,10 +115,12 @@ export default class CrudAluno extends Component {
                         this.atualizaCurso(e);
                     }}
                 >
+                    <option value="">Selecione o curso</option>
                     {this.state.cursoLista.map((curso) => (
                         <option name="codCurso" value={curso.codCurso}>
                             
-                            {curso.nomeCurso}-{curso.periodo}
+                            
+                            {curso.nomeCurso}-{curso.periodo} 
                         </option>
                     ))}
                 </select>
