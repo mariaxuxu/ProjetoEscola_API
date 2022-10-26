@@ -20,7 +20,7 @@ const Carometro = () => {
     const [cursoLista, setCursos] = useState([])
     const [alunoLista, setAlunos] = useState([])
     const [dataAtualizada, setDataAtualizada] = useState(true)
-    const avatars = ['adventurer', 'micah', 'bottts', 'adventurer-neutral', 'pixel-art']
+    const avatars = ['big-ears']
 
     const randomAvatar = () => {
         let tamanho = avatars.length
